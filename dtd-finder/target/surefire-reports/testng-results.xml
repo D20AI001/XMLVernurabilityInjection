@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EntityTesterTest" duration-ms="3222" started-at="2022-04-18T11:57:58Z" finished-at="2022-04-18T11:58:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3222" started-at="2022-04-18T11:57:58Z" finished-at="2022-04-18T11:58:01Z">
+      <class name="EntityTesterTest">
+        <test-method status="PASS" signature="testCim()[pri:0, instance:EntityTesterTest@7f63425a]" name="testCim" duration-ms="268" started-at="2022-04-18T17:27:58Z" finished-at="2022-04-18T17:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCim -->
+        <test-method status="PASS" signature="testDocbookx()[pri:0, instance:EntityTesterTest@7f63425a]" name="testDocbookx" duration-ms="1300" started-at="2022-04-18T17:27:58Z" finished-at="2022-04-18T17:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDocbookx -->
+        <test-method status="PASS" signature="testInlineEntityAndAttributeList()[pri:0, instance:EntityTesterTest@7f63425a]" name="testInlineEntityAndAttributeList" duration-ms="248" started-at="2022-04-18T17:28:00Z" finished-at="2022-04-18T17:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInlineEntityAndAttributeList -->
+        <test-method status="PASS" signature="testMbeans()[pri:0, instance:EntityTesterTest@7f63425a]" name="testMbeans" duration-ms="35" started-at="2022-04-18T17:28:00Z" finished-at="2022-04-18T17:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMbeans -->
+        <test-method status="PASS" signature="testPerfsuite()[pri:0, instance:EntityTesterTest@7f63425a]" name="testPerfsuite" duration-ms="61" started-at="2022-04-18T17:28:00Z" finished-at="2022-04-18T17:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPerfsuite -->
+        <test-method status="PASS" signature="testScrollkeeper()[pri:0, instance:EntityTesterTest@7f63425a]" name="testScrollkeeper" duration-ms="202" started-at="2022-04-18T17:28:00Z" finished-at="2022-04-18T17:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScrollkeeper -->
+        <test-method status="PASS" signature="testServletApi()[pri:0, instance:EntityTesterTest@7f63425a]" name="testServletApi" duration-ms="811" started-at="2022-04-18T17:28:00Z" finished-at="2022-04-18T17:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testServletApi -->
+        <test-method status="PASS" signature="testSipApp()[pri:0, instance:EntityTesterTest@7f63425a]" name="testSipApp" duration-ms="24" started-at="2022-04-18T17:28:01Z" finished-at="2022-04-18T17:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSipApp -->
+        <test-method status="PASS" signature="testWiresharkSmil()[pri:0, instance:EntityTesterTest@7f63425a]" name="testWiresharkSmil" duration-ms="37" started-at="2022-04-18T17:28:01Z" finished-at="2022-04-18T17:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWiresharkSmil -->
+        <test-method status="PASS" signature="testXmlCore()[pri:0, instance:EntityTesterTest@7f63425a]" name="testXmlCore" duration-ms="214" started-at="2022-04-18T17:28:01Z" finished-at="2022-04-18T17:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testXmlCore -->
+      </class> <!-- EntityTesterTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- EntityTesterTest -->
+</testng-results>
